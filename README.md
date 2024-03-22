@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vinay Wadhwa
+- 👋 Hi, I’m Vinay Wadhwa
 - 👀 I’m a Python Developer.
 - 🌱 I’m currently learning Machine Learning and AI.
 - 💞️ I’m looking to collaborate for learning and for making new projects
